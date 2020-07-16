@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Afghanistan (‫افغانستان‬‎)",
+    "iso2": "af",
+    "dialCode": "93",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Canada",
+    "iso2": "ca",
+    "dialCode": "1",
+    "priority": 1,
+    "areaCodes": [
+      "204",
+      "226",
+      "236",
+      "249",
+      "250",
+      "289",
+      "306",
+      "343",
+      "365",
+      "387",
+      "403",
+      "416",
+      "418",
+      "431",
+      "437",
+      "438",
+      "450",
+      "506",
+      "514",
+      "519",
+      "548",
+      "579",
+      "581",
+      "587",
+      "604",
+      "613",
+      "639",
+      "647",
+      "672",
+      "705",
+      "709",
+      "742",
+      "778",
+      "780",
+      "782",
+      "807",
+      "819",
+      "825",
+      "867",
+      "873",
+      "902",
+      "905"
+    ]
+  },
+  {
+    "name": "India (भारत)",
+    "iso2": "in",
+    "dialCode": "91",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Liberia",
+    "iso2": "lr",
+    "dialCode": "231",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "United Kingdom",
+    "iso2": "gb",
+    "dialCode": "44",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "United States",
+    "iso2": "us",
+    "dialCode": "1",
+    "priority": 0,
+    "areaCodes": null
+  }
+]
